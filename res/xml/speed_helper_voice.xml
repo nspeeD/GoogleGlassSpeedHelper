@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Voice Trigger to start the application -->
+<trigger keyword="@string/show_speed_helper_voice_trigger"/>
+

@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/stop"
+        android:title="@string/stop"
+        android:icon="@drawable/ic_launcher"/>
+    
+    <item
+        android:id="@+id/set_max_speed"
+        android:title="@string/set_max_speed"
+        android:icon="@drawable/ic_launcher"/>
+    
+    <item
+        android:id="@+id/kmh"
+        android:title="@string/kmh"
+        android:icon="@drawable/ic_launcher"/>
+    
+    <item
+        android:id="@+id/mph"
+        android:title="@string/mph"
+        android:icon="@drawable/ic_launcher"/>
+</menu>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Glass Speed Helper</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <!-- Speed metrics -->
+    <string name="kmh">kmh</string>
+    <string name="mph">mph</string>
+    
+    <!-- Voice Triggers -->
+    <string name="show_speed_helper_voice_trigger">show speed</string>
+    <string name="set_speed_limit_voice_trigger">set a speed limit</string>
+    
+    <!-- Actions -->
+    <string name="stop">Stop</string>
+    <string name="set_max_speed">Set a max speed</string>
+
+</resources>
